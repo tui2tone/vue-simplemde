@@ -20,6 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "inscrybmde": "https://github.com/tui2tone/inscryb-markdown-editor",
     "marked": "^0.3.6",
     "simplemde": "^1.11.2"
   },

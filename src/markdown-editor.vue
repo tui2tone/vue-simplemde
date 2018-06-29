@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import SimpleMDE from 'simplemde';
+import SimpleMDE from 'inscrybmde';
 import marked from 'marked';
 
 export default {
